@@ -17,7 +17,7 @@
   under the License.
 -->
 
-# Apache Yetus
+## Apache Yetus
 
 Apache Yetus is a collection of libraries and tools that enable
 contribution and release process for software projects.
